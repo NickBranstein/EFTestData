@@ -1,6 +1,6 @@
 # EFTestData
 
-Example project for easy and auto"magic" test data generation using Entity Framework 6.  For full details read my post on https://brosteins.com
+Example project for easy and auto"magic" test data generation using Entity Framework 6.  For full details read my post on https://brosteins.com/2015/08/14/generating-test-data-in-entity-framework
 
 ## Running the Sample
 To test the sample simply do one of the following:
